@@ -1,0 +1,17 @@
+{
+  "name": "scrapuccino",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Matija Begonja",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^23.9.0"
+  }
+}
